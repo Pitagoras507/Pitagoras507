@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Pitagoras507
-- Well I just finished my hello world, so I guess I'm a newbie?
+
